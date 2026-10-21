@@ -33,7 +33,7 @@ hilt-compiler = { group = "com.google.dagger", name = "hilt-compiler", version.r
 hilt-navigation-compose = { group = "androidx.hilt", name = "hilt-navigation-compose", version.ref = "hiltNavigationCompose" }
 kotlinx-coroutines-core = { group = "org.jetbrains.kotlinx", name = "kotlinx-coroutines-core", version.ref = "coroutines" }
 kotlinx-coroutines-android = { group = "org.jetbrains.kotlinx", name = "kotlinx-coroutines-android", version.ref = "coroutines" }
-androidx-navigation-compose = { group = "androidx.navigation", name = "navigation-compose", version = "2.8.7" }
+androidx-navigation-compose = { group = "androidx.navigation", name = "navigation-compose", version = "2.10.2" }
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
